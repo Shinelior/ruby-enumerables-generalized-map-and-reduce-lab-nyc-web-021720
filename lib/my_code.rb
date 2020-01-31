@@ -36,6 +36,6 @@ end
   
 end
 #reduce([5,8,9])
-[ false, nil, nil, nil, true].reduce do |x| 
+[ 1,2,3].reduce do |x| 
   end
 
