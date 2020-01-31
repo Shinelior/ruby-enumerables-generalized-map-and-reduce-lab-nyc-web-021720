@@ -31,7 +31,7 @@ end
   
      x += 1
  end
- # binding.pry
+  binding.pry
   return sum
   
 end
